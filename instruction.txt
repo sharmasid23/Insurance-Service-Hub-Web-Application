@@ -1,0 +1,10 @@
+
+BUILD Instructions
+1. Start your TOMCAT server and MongoDB Server, also mysql should be ON.
+2. Now open the insurance folder in IDE with accepts MAVEN Dependencies using pom.xml or adding it manually. 
+3. The dependencies needed for this Web Application are \'93Java-api-servlet\'94, \'93mysql-connector\'94, \'93mongo-java-driver\'94, \'93json\'94, \'93bson\'94, \'93junit\'94\
+4. After adding the dependencies we can now compile and install the project from the Maven directory. 
+5. After installing, we get a \'93.war\'94 file. 
+6. Place the \'93.war\'94  file in our tomcat/webapps folder and start localhost.
+7. Our Project is loaded using Tomcat Server.
+8. Find the pom.xml in the folder.
